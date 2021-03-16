@@ -1,3 +1,3 @@
-# notes
+# TZ Notes
 
-[Notes](./notes/Sketch a Startup.md)
+[Sketch a Startup](./notes/Sketch a Startup.md)
